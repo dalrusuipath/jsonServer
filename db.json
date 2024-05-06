@@ -2,7 +2,33 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "observation": "Needs to write better messages",
+	    "focusArea": "Write great messages"
+    },
+	  {
+      "id": 2,
+      "observation": "Limit technical jargon",
+	    "focusArea": "Speak simply"
+    },
+	  {
+      "id": 3,
+      "observation": "Define better",
+	    "focusArea": "Define the problem"
+    },
+	  {
+      "id": 4,
+      "observation": "Think think think",
+	    "focusArea": "Apply critical thinking skills"
+    },
+	  {
+      "id": 5,
+      "observation": "Server",
+	    "focusArea": "Use a service mindset"
+    },
+	  {
+      "id": 6,
+      "observation": "Challenges",
+	    "focusArea": "Respond to challenges"
     }
   ],
   "profile": {
